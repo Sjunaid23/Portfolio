@@ -4,7 +4,7 @@ Personal portfolio website showcasing my work, technical skills, projects, certi
 
 ## Live
 
-[View Portfolio](YOUR_VERCEL_LINK)
+[View Portfolio](LINK)
 
 ## Screenshots
 
@@ -71,11 +71,11 @@ Full-scale frontend project currently in development.
 
 ## Contact
 
-LinkedIn: YOUR_LINKEDIN_LINK
+LinkedIn: https://www.linkedin.com/in/syed-junaid-b20295358
 
-GitHub: YOUR_GITHUB_LINK
+GitHub: https://github.com/Sjunaid23
 
-Portfolio: YOUR_VERCEL_LINK
+Portfolio: 
 
 ---
 
