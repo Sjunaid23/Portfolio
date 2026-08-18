@@ -4,7 +4,7 @@ Personal portfolio website showcasing my work, technical skills, projects, certi
 
 ## Live
 
-[View Portfolio](LINK)
+[View Portfoli](https://portfolio-syed-junaid.vercel.app/)
 
 ## Screenshots
 
@@ -75,7 +75,7 @@ LinkedIn: https://www.linkedin.com/in/syed-junaid-b20295358
 
 GitHub: https://github.com/Sjunaid23
 
-Portfolio: 
+Portfolio: https://portfolio-syed-junaid.vercel.app/
 
 ---
 
