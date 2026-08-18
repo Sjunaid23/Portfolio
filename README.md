@@ -4,7 +4,7 @@ Personal portfolio website showcasing my work, technical skills, projects, certi
 
 ## Live
 
-[View Portfoli](https://portfolio-syed-junaid.vercel.app/)
+[View Portfolio](https://portfolio-syed-junaid.vercel.app/)
 
 ## Screenshots
 
